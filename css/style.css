@@ -16,6 +16,7 @@ header {
   display: flex;
   justify-content: space-between;
   margin-bottom: 40px;
+
   /* padding: 30px; */
 }
 
@@ -45,7 +46,6 @@ h1 span {
 
   border-radius: 0px 2px 2px 0;
 }
-
 
 img {
   width: 80px;

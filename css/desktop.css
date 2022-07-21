@@ -33,22 +33,24 @@
   h2 {
     font-weight: 300;
     color: white;
+
     position: relative;
     left: 10px;
     bottom: 22px;
 
-    font-size: 1.2rem;
+    min-width: 200px;
+
+    font-size: 1.4rem;
   }
   .search-bar input {
     width: 220px;
 
     padding: 10px;
+    
+    border-top-right-radius: 0px;
   }
   .search-bar img {
-  
     width: 25px;
     height: 25px;
-
-  
   }
 }

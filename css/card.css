@@ -10,10 +10,6 @@
   font-weight: 700;
 }
 
-/* .icons {
-    position: relative;
-    left: 83%;
-  } */
 .icons img {
   border: var(--border);
   box-shadow: var(--box-shadow);
@@ -22,7 +18,7 @@
   padding: 3px;
   border-radius: 2px;
 }
-.Card {
+.card {
   width: 250px;
   min-height: 280px;
   box-shadow: var(--box-shadow);
@@ -31,11 +27,11 @@
   padding: 10px;
 }
 
-.CardImg {
+.cardImg {
   max-width: 250px;
 }
 
-.CardImg img {
+.cardImg img {
   width: 230px;
   height: 150px;
   /* padding: 10px; */
@@ -48,41 +44,41 @@
 .title {
   font-size: 1.4rem;
   font-weight: 500;
-  margin-bottom: 8px;
+  margin-bottom: 15px;
 }
 .price {
-  font-size: 1.8rem;
+  font-size: 2rem;
   font-weight: 700;
 
   margin-bottom: 5px;
 }
 .offer {
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   font-weight: 400;
 }
 
 .mrp {
-  position: absolute;
+  position: relative;
   left: 43%;
-  bottom: 22%;
+  bottom: 40px;
   font-size: 1.3rem;
   text-decoration: line-through;
 }
 .saves {
-  position: absolute;
+  position: relative;
   left: 43%;
-  bottom: 18%;
+  bottom: 35px;
   font-size: 0.8rem;
   font-weight: 400;
 }
 
-.CardButtons {
-  margin-top: 5px;
+.cardButtons {
+  margin-top: -20px;
   display: flex;
   justify-content: space-between;
 }
 
-.CardButtons button {
+.cardButtons button {
   width: 110px;
   height: 35px;
 }
@@ -126,18 +122,16 @@
     font-weight: 700;
   }
 
-  .icons {
+  /* .icons {
     position: relative;
     left: 83%;
-  }
- 
+  } */
 
-
-  .CardImg {
+  .cardImg {
     max-width: 250px;
   }
 
-  .CardImg img {
+  .cardImg img {
     width: 230px;
     height: 150px;
     /* padding: 10px; */
