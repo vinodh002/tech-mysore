@@ -1,0 +1,7 @@
+:root {
+  font-size: 62.5%;
+  font-family: "nunito", sans-serif;
+  --dark-blue: rgb(12, 12, 68);
+  --box-shadow: 1.7px 1.7px 5.5px rgba(12, 12, 68, 0.15);
+  --border: 0.5px solid rgba(12, 12, 68, 0.3);
+}

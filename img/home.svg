@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64.6" height="66.467" viewBox="0 0 64.6 66.467">
+  <defs>
+    <filter id="_10f75cd8d9bd946f7ca3e58fc45fb19d" x="0" y="0" width="64.6" height="66.467" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#_10f75cd8d9bd946f7ca3e58fc45fb19d)">
+    <path id="_10f75cd8d9bd946f7ca3e58fc45fb19d-2" data-name="10f75cd8d9bd946f7ca3e58fc45fb19d" d="M11.072,31.22v-5.1a2.372,2.372,0,0,1,2.368-2.36h4.8a2.372,2.372,0,0,1,2.384,2.36h0v5.116a2.037,2.037,0,0,0,2,2.028h3.2A5.747,5.747,0,0,0,31.6,27.545h0V13.036A4.057,4.057,0,0,0,30,9.868L19.056,1.14a5.289,5.289,0,0,0-6.56,0L1.6,9.883A4.026,4.026,0,0,0,0,13.051V27.545a5.747,5.747,0,0,0,5.776,5.718h3.2A2.054,2.054,0,0,0,11.04,31.22h0" transform="translate(13.5 13.7)" fill="none" stroke="#200e32" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill-rule="evenodd"/>
+  </g>
+</svg>

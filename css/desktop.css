@@ -1,0 +1,54 @@
+@media screen and (min-width: 1000px) {
+  .landing-page {
+    max-width: 86%;
+    margin: 20px auto;
+  }
+  header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+  }
+  h1 {
+    font-size: 3rem;
+  }
+  h1 span {
+    font-weight: 300;
+  }
+
+  nav {
+    position: relative;
+  }
+
+  a {
+    list-style: none;
+    text-decoration: none;
+  }
+  img {
+    width: 250px;
+    height: 80px;
+    box-shadow: var(--box-shadow);
+  }
+
+  h2 {
+    font-weight: 300;
+    color: white;
+    position: relative;
+    left: 10px;
+    bottom: 22px;
+
+    font-size: 1.2rem;
+  }
+  .search-bar input {
+    width: 220px;
+
+    padding: 10px;
+  }
+  .search-bar img {
+  
+    width: 25px;
+    height: 25px;
+
+  
+  }
+}
